@@ -1,5 +1,5 @@
 # WebDesignDevelopment-Course
 
-** web design course **
+**web design course**
 
-** django **
+**django**
